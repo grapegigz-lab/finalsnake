@@ -39,7 +39,6 @@ body {
   justify-content: space-between;
   padding: 1.2rem 1.4rem;
   border: 1px solid rgba(255,255,255,0.08);
-  border-radius: 28px;
   background: rgba(255,255,255,0.04);
   backdrop-filter: blur(18px);
 }
@@ -61,7 +60,6 @@ button {
   color: #031118;
   background: linear-gradient(135deg, #6ee7ff 0%, #f78fb3 100%);
   padding: 0.95rem 1.6rem;
-  border-radius: 999px;
   font-weight: 700;
   cursor: pointer;
   transition: transform 150ms ease, box-shadow 150ms ease;
@@ -76,7 +74,6 @@ canvas {
   width: 100%;
   aspect-ratio: 16/9;
   background: transparent;
-  border-radius: 32px;
   overflow: hidden;
   box-shadow: 0 40px 120px rgba(0, 0, 0, 0.25);
   border: 1px solid rgba(255,255,255,0.08);
